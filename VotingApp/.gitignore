@@ -1,2 +1,5 @@
-/node_modules
-/test-ledger
+node_modules
+test-ledger
+.yarn
+node_modules/@next
+test-ledger/rocksdb/
